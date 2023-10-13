@@ -1,0 +1,57 @@
+AngularJS documentation to learn:
+    https://docs.angularjs.org/guide
+
+Introduction: https://docs.angularjs.org/guide/introduction
+
+External Resources: https://docs.angularjs.org/guide/external-resources
+
+Conceptual Overview: https://docs.angularjs.org/guide/concepts
+
+Data Binding: https://docs.angularjs.org/guide/databinding
+
+Controller: https://docs.angularjs.org/guide/controller
+
+Services: https://docs.angularjs.org/guide/services
+
+Scopes: https://docs.angularjs.org/guide/scope
+
+Dependency Injection: https://docs.angularjs.org/guide/di
+
+Templates: https://docs.angularjs.org/guide/templates
+
+Expressions: https://docs.angularjs.org/guide/expression
+
+interpolation: https://docs.angularjs.org/guide/interpolation
+
+Flter: https://docs.angularjs.org/guide/filter
+
+Forms: https://docs.angularjs.org/guide/forms
+
+Directives: https://docs.angularjs.org/guide/directive
+
+Components: https://docs.angularjs.org/guide/component
+
+Components router: https://docs.angularjs.org/guide/component-router
+
+Animations: https://docs.angularjs.org/guide/animations
+
+Modules: https://docs.angularjs.org/guide/module
+
+HTML Compiler: https://docs.angularjs.org/guide/compiler
+
+Providers: https://docs.angularjs.org/guide/providers
+
+Decorators: https://docs.angularjs.org/guide/decorators
+
+Bootstrap: https://docs.angularjs.org/guide/bootstrap
+
+Unit Testing: https://docs.angularjs.org/guide/unit-testing
+
+Using $location: https://docs.angularjs.org/guide/$location
+
+Working With CSS: https://docs.angularjs.org/guide/css-styling
+
+i18n and I10n: https://docs.angularjs.org/guide/i18n
+
+Accessibility: https://docs.angularjs.org/guide/accessibility
+
